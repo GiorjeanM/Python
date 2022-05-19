@@ -1,6 +1,6 @@
 ![Instacart-Featured-Image](https://user-images.githubusercontent.com/99417572/155081496-5d09897b-e413-4996-a681-c574bbb0ec9a.jpg) 
 
-# Python Coding Etiquette and Excel Reporting for Instacart
+# Snaking Through Instacart: Python Coding and Excel Reporting
 ## Objectives
 ### Instacart is an online grocery store that operates through an app. Instacart already has very good sales, but they want to uncover more information about their sales patterns. The task is to perform an initial data and exploratory analysis of some of their data in order to derive insights and suggest strategies for better segmentation based on the provided criteria.
 
